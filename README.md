@@ -25,7 +25,7 @@ You will need the Postman app to test my API
 4. enter "localhost:3000/reports" for the url.
 5. Click on the Body tab just below the entered url.
 6. Select the x-www-form-urlencoded option.
-7. Now enter the following KEYs. (note: write these exactly like I have written below (case sensitive).)
+7. Now enter the following KEYs. (note: write these exactly like I have written below (case sensitive).)<br/>
    userID<br/>
    marketID<br/>
    marketName<br/>
