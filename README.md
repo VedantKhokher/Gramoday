@@ -1,6 +1,6 @@
 # Gramoday
 
-**Description:-**
+## Description:-
 
 I have used the following npm modules to make this API-
 1. express
@@ -13,7 +13,7 @@ The MongoDB database runs on localhost: 27017 and it is called reportsDB.
 
 The API server runs on localhost:3000.
 
-**How to use the API :-**
+## How to use the API :-
 
 You will need the Postman app to test my API
 
@@ -26,15 +26,15 @@ You will need the Postman app to test my API
 5. Click on the Body tab just below the entered url.
 6. Select the x-www-form-urlencoded option.
 7. Now enter the following KEYs. (note: write these exactly like I have written below (case sensitive).)
-   userID
-   marketID
-   marketName
-   cmdtyID
-   marketType
-   cmdtyName
-   priceUnit
-   convFctr
-   price
+   userID<br/>
+   marketID<br/>
+   marketName<br/>
+   cmdtyID<br/>
+   marketType<br/>
+   cmdtyName<br/>
+   priceUnit<br/>
+   convFctr<br/>
+   price<br/>
 
 8. Now enter the values for these keys. (note: If a value is not present for a KEY leave it blank)
 9. Click on the Send button.
