@@ -1,6 +1,6 @@
 # Gramoday
 
-Description:-
+**Description:-**
 
 I have used the following npm modules to make this API-
 1. express
@@ -13,11 +13,11 @@ The MongoDB database runs on localhost: 27017 and it is called reportsDB.
 
 The API server runs on localhost:3000.
 
-How to use the API :-
+**How to use the API :-**
 
 You will need the Postman app to test my API
 
-POST request
+**POST request**
 
 1. Open the Postman app.
 2. Click on the plus button on the right side of overview to start making new requests
@@ -41,7 +41,7 @@ POST request
 10. Now you should be able to see status: "success" and a reportID in the response section of the app
 11. The POST request is now complete and the data is stored in the reportsDB Database.
 
-GET request
+**GET request**
 
 1. Now select the GET option in the app instead of POST.
 2. enter "localhost:3000/reports?reportID=(enter the reportID of the report you want here)" for the url.
